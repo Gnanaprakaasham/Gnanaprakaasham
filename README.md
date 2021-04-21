@@ -1,8 +1,8 @@
 ### Hi there 👋
-           This is Gnanaprakaasham S , a pre-final year student of Electonics and Communication background :electron
+           This is Gnanaprakaasham S , a pre-final year student of Electonics and Communication background 📞 🔌
            but loves to solve real-world problems with data and software environment. 💻
            A team player and Enthusiastic learner. 🥇 
-           Interest in Data Science and Data Analysis. 📊
+           Interest in Data Science and Data Analysis. 📊 
            Core Member in Robotics Club @ SASTRA🤖
            Volunteered in National Symposiums,Olympiads,etc,. 🙂
            Believes "Learning is always like an exponential curve" 📈
