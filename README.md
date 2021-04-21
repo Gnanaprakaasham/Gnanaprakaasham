@@ -1,5 +1,8 @@
 ### Hi there 👋
-           This is Gnanaprakaasham S , a pre-final year student of Electonics and Communication background but loves to solve real-world problems with software environment.A team player and Enthusiastic learner.Interest in Data Science.Core Member in Robotics Club @ SASTRA
+           This is Gnanaprakaasham S , a pre-final year student of Electonics and Communication background
+           but loves to solve real-world problems with software environment.A team player and Enthusiastic learner.
+           Interest in Data Science.
+           Core Member in Robotics Club @ SASTRA
 
 
 Here are some ideas to get you started:
