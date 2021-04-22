@@ -10,8 +10,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data structures and Algorithms.
-- 🌱 I’m currently learning SQL,DBMS.
+- 🔭 I’m currently started learning Data Structures and Algorithms.
+- 🌱 I’m currently learning SQL.
 - 😄Skills: Python(Numpy,Pandas,Scikit-learn),C++
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with  Competitive Programming,Mobile application deployment 
